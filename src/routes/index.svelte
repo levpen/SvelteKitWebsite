@@ -2,7 +2,7 @@
     <div class="container" id="about-main">
         <h2>About Me</h2>
         <div id="about-block">
-            <img src="/images/icon.png" alt="" id="icon" class="block">
+            <img src="./images/icon.png" alt="" id="icon" class="block">
             <p class="block">Hello, I'm 18 y.o. freshmen in Innopolis Univerity who tries to find his passion in
                 programming.</p>
         </div>
