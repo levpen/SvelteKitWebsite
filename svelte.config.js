@@ -11,7 +11,7 @@ const config = {
 
 	kit: {
 		adapter: adapter(),
-		base: dev ? '' : '/SvelteKitWebsite/',
+		base: dev ? '' : '/SvelteKitWebsite',
 	},
 	appDir: 'app_'
 };
