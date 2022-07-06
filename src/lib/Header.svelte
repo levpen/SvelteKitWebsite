@@ -6,11 +6,11 @@
         <nav id="header-links">
             <div class="container">
                 <ul>
-                    <li><a href="/">About Me</a></li>
-                    <li><a href="/stack">My Stack</a></li>
-                    <li><a href="/portfolio">Portfolio</a></li>
-                    <li><a href="/contact">Contact</a></li>
-                    <li><a href="/converter">Converter</a></li>
+                    <li><a href="./">About Me</a></li>
+                    <li><a href="./stack">My Stack</a></li>
+                    <li><a href="./portfolio">Portfolio</a></li>
+                    <li><a href="./contact">Contact</a></li>
+                    <li><a href="./converter">Converter</a></li>
                 </ul>
             </div>
         </nav>
