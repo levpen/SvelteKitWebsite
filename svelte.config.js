@@ -12,7 +12,8 @@ const config = {
 	kit: {
 		adapter: adapter(),
 		base: dev ? '' : '/SvelteKitWebsite/',
-	}
+	},
+	appDir: 'app_'
 };
 
 export default config;
