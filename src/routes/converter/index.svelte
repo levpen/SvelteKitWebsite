@@ -1,5 +1,5 @@
 <script lang="ts">
-    import ConverterButton from "$lib/ConverterButton.svelte";
+    import ConverterButton from "../../lib/ConverterButton.svelte";
     let apiFrom: string[] = [];
     let apiTo: string[] = [];
     fetch(`https://open.er-api.com/v6/latest/RUB`)
