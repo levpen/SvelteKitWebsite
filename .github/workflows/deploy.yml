@@ -18,9 +18,14 @@ jobs:
           node-version: '16'
       - name: Install dependencies
         run: npm ci
+      - name: Running lint
+        run: npm run lint
+      - name: Running formatting
+        run: npm run format
       - name: Build website
         run: npm run build
+
       - name: Deploy to GitHub Page
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: ./docs
+          folder: build
