@@ -1,0 +1,5 @@
+import{S as y,i as E,s as P,e as h,t as x,k as C,c as l,a as d,h as I,d as r,m as M,b as g,g as j,F as t,n as f}from"../chunks/index-51e718d3.js";function J(w){let a,e,i,p,m,n,v;return{c(){a=h("main"),e=h("div"),i=h("h2"),p=x("Portfolio"),m=C(),n=h("p"),v=x(`I have a profound experience with C++ and Java which include several
+            projects that I have done in University. Moreover, I have some
+            experience in olimpiad programming.`),this.h()},l(o){a=l(o,"MAIN",{});var s=d(a);e=l(s,"DIV",{class:!0,id:!0});var c=d(e);i=l(c,"H2",{});var u=d(i);p=I(u,"Portfolio"),u.forEach(r),m=M(c),n=l(c,"P",{});var _=d(n);v=I(_,`I have a profound experience with C++ and Java which include several
+            projects that I have done in University. Moreover, I have some
+            experience in olimpiad programming.`),_.forEach(r),c.forEach(r),s.forEach(r),this.h()},h(){g(e,"class","container"),g(e,"id","portfolio-main")},m(o,s){j(o,a,s),t(a,e),t(e,i),t(i,p),t(e,m),t(e,n),t(n,v)},p:f,i:f,o:f,d(o){o&&r(a)}}}class U extends y{constructor(a){super(),E(this,a,null,J,P,{})}}export{U as default};
