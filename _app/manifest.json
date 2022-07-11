@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "immutable/start-b14713fa.js",
+    "file": "immutable/start-0eb43ca5.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -25,7 +25,7 @@
       "_index-51e718d3.js"
     ],
     "css": [
-      "immutable/assets/pages/__layout.svelte-e5b6106b.css"
+      "immutable/assets/pages/__layout.svelte-0716be39.css"
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
